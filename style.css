@@ -71,7 +71,6 @@ article:hover {
 .Desserts {
     display: flex;
     justify-content: space-between;
-    align-items: baseline;
 }
 
 .plat {

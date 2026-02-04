@@ -28,7 +28,7 @@ design classique de menu de pizza(sans les images).
 
 **Décisions CSS notables :**
 Peu de classe css pour ne pas se perdre dans le code(étais un problème en web 1).
-Alignement simple,ordonné et séparé en trois en utilisant le text-align,margin,padding,justify-content et align-items.
+Alignement simple,ordonné et séparé en trois en utilisant le text-align,margin,padding et justify-content.
 Utilisation de couleurs avec constraste pour une meilleur visibilité 
 
 ## Difficultés rencontrées
